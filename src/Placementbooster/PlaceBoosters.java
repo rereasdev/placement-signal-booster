@@ -79,7 +79,7 @@ public class PlaceBoosters{
       Class [] paramType = {BinaryTreeNode.class};
                                       // type of parameter for visit
       Method thePlaceMethod = null;   // method to place boosters
-       System.out.println("Placement Booster");
+       System.out.println("Placement Signal Booster");
       try
       {
          Class pb = PlaceBoosters.class;
